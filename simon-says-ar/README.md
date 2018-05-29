@@ -8,7 +8,7 @@ Ensure you have the latest version of [Unity](https://unity3d.com/) configured w
 
 ### Deploying to a device
 
-This build was originally created using an iPhone 6 running iOS 11.3.1 and X-Code 9.3.1. There is currently a compatibility issue with these versions of iOS and X-Code that cause the AR Camera to malfunction and display a black screen. If you encounter this issue you can resolve it by following the instructions found [here](https://www.youtube.com/watch?v=3roMSonIG5c).
+This build was originally created using an iPhone 6 running iOS 11.3.1 and X-Code 9.3.1. If you are unfamiliar with deployment follow [these steps](https://unity3d.com/learn/tutorials/topics/mobile-touch/building-your-unity-game-ios-device-testing). There is currently a compatibility issue with iOS 11.3.1 and X-Code 9.3.1 that cause the AR Camera to malfunction and display a black screen. If you encounter this issue you can resolve it by following the instructions found [here](https://www.youtube.com/watch?v=3roMSonIG5c).
 
 ## License
 
