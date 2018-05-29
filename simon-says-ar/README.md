@@ -10,6 +10,10 @@ Ensure you have the latest version of [Unity](https://unity3d.com/) configured w
 
 This build was originally created using an iPhone 6 running iOS 11.3.1 and X-Code 9.3.1. If you are unfamiliar with deployment follow [these steps](https://unity3d.com/learn/tutorials/topics/mobile-touch/building-your-unity-game-ios-device-testing). There is currently a compatibility issue with iOS 11.3.1 and X-Code 9.3.1 that cause the AR Camera to malfunction and display a black screen. If you encounter this issue you can resolve it by following the instructions found [here](https://www.youtube.com/watch?v=3roMSonIG5c).
 
+### Marker Image
+
+With the app running, open `marker.jpg` included at the top level of this directory and point your phone's camera at it.
+
 ## License
 
 [MIT](https://oss.ninja/mit?organization=Eric%20Kollegger) Copyright 2018 [Eric Kollegger](https://github.com/MinimalGhost)
