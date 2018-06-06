@@ -37,7 +37,6 @@ public class TapButton : MonoBehaviour {
         {
             // color changes on tap
             TappedColor();
-
             // get the instance id
             onClick.Invoke(buttonId);
         }
