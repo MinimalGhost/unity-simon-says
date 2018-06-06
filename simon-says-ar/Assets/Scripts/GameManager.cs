@@ -164,8 +164,6 @@ public class GameManager : MonoBehaviour {
             obj.transform.position = Vector3.Lerp(source, target, (Time.time - startTime) / overTime);
             yield return null;
         }
-
-        //obj.transform.position = target;
     }
 
     private IEnumerator Simon() {
