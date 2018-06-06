@@ -37,8 +37,7 @@ public class TapButton : MonoBehaviour {
         {
             // color changes on tap
             TappedColor();
-            // button appears to be pressed
-            //transform.position = new Vector3(buttonPos.x, -0.01f, buttonPos.z);
+
             // get the instance id
             onClick.Invoke(buttonId);
         }
