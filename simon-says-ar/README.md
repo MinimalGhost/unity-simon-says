@@ -12,7 +12,7 @@ This build was originally created using an iPhone 6 running iOS 11.3.1 and X-Cod
 
 ### Marker Image
 
-With the app running, open `marker.jpg` included at the top level of this directory and point your phone's camera at it.
+With the app running, open `marker.png` included at the top level of this directory and point your phone's camera at it.
 
 ## License
 
