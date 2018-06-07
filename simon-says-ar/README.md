@@ -4,7 +4,7 @@ A simple simon says augmented reality game built with Unity and Vuforia.
 
 ## Intalling / Getting Started
 
-Ensure you have the latest version of [Unity](https://unity3d.com/) configured with [Vuforia](https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity.html#installing). You'll also need to have [X-Code](https://developer.apple.com/xcode/) installed, which I suggest getting through the Apple Developer Portal for ease of use and open selection of versions for compatibility workarounds. Then just clone this repository and open it with Unity.
+Ensure you have the latest version of [Unity](https://unity3d.com/) configured with [Vuforia](https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity.html#installing). You'll also need to have [X-Code](https://developer.apple.com/xcode/) installed, which I suggest getting through the Apple Developer Portal for ease of use and open selection of versions for compatibility workarounds. Finally, this project was pushed using [Git Large File Storage](https://git-lfs.github.com/) which should be used to handle the larger files. Then just clone this repository and open it with Unity.
 
 ### Deploying to a device
 
